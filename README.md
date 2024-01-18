@@ -1,4 +1,4 @@
-![ardunioCircuitDesign](https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/fba04cf9-4ed0-4651-96c2-d72d6aa473ae)# ardunioCircuitDesignAndCodes
+## ardunioCircuitDesignAndCodes
 
 Bu proje, Arduino Uno kartını kullanarak basit bir LED yakma uygulamasını gerçekleştirmek için gerekli bileşenlerin ve kodun nasıl kullanılacağını açıklar.
 
