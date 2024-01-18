@@ -33,4 +33,7 @@ Butonu bağlamak için:
 
 Bu bağlantılar, LED'i ve butonu Arduino Uno ile kontrol etmek için gerekli olan temel bağlantıları oluşturur.
 
+## Daha Fazla Bilgi
+Daha fazla ayrıntı, bağlantılar ve örnek projeler için bu uygulamanın Tinkercad simülasyonuna buradan erişebilirsiniz. https://www.tinkercad.com/things/4Ws28uhWpCh-butonileledyakma
+
 ![turningOnTheLEDWithTheButtonDesign](https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/b5816b1c-7d52-4fa4-9bb8-8914aaede119)
