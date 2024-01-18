@@ -28,5 +28,8 @@ https://www.tinkercad.com/things/hZbGAXWZLjv-analogokuma
 
 
 
-https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/0f11edf3-633f-4ec8-b794-8be6f55c60a2
+
+https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/7a75cfdb-ed21-4fef-9781-dbcdd50ea654
+
+
 
