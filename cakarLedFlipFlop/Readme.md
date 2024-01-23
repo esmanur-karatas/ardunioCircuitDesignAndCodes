@@ -25,3 +25,7 @@ Bu projede, Arduino Uno kullanarak basit bir çakar LED devresi inşa edeceğiz.
 ## Tincercad
 Bu projenin Tinkercad üzerindeki simülasyonuna ulaşmak için bu linki takip edebilirsiniz.
 https://www.tinkercad.com/things/4WbjmdA8Cby-spectacular-jaiks-snicket/editel?tenant=circuits
+
+
+https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/3475fb18-77d2-458d-9f76-d9a26f7d4a66
+
