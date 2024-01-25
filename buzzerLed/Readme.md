@@ -28,3 +28,9 @@ Bu projede, bir potansiyometrenin okuduğu değere göre hem bir LED'in yanıp s
 ## Tincercad
 Bu projenin Tinkercad üzerindeki simülasyonuna ulaşmak için bu linki takip edebilirsiniz.
 https://www.tinkercad.com/things/a2w1SBpKp6K-buzzerpin
+
+
+
+https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/313e16bb-023f-4ed0-a91e-6ceb84ae3b68
+
+
