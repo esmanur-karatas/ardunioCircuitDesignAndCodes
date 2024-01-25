@@ -1,0 +1,6 @@
+﻿Ad,Miktar,Bileşen
+"U1",1," Arduino Uno R3"
+"Rpot1",1,"250 kΩ Potansiyometre"
+"R1, R2",2,"330 Ω Rezistör"
+"D1",1,"Kırmızı LED"
+"PIEZO1",1," Piezo"
