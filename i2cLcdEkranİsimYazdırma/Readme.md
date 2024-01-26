@@ -13,6 +13,9 @@ Bu projede, Arduino kullanarak I2C LCD ekrana isim yazmayı gerçekleştireceği
 
 ![Dazzling Wolt-Tumelo](https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/0129c40c-e736-4346-9a9d-6dbfe5f54fc5)
 
+## I2c Olmayan Lcd Ekran Devre Şeması
+
+![lcdEkran2](https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/ccaae220-5a49-4f1e-90d5-6cbc475eba3b)
 
 ## Kurulum
 
