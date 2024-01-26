@@ -76,6 +76,10 @@ lcd.print(temperature);
 delay(100);
 }
 
+
+https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/7016b02d-865b-461e-aaa5-6315f3a91aed
+
+
 ## TINCERCAD
 Bu projenin Tinkercad üzerindeki simülasyonuna ulaşmak için bu linki takip edebilirsiniz.
 https://www.tinkercad.com/things/fKlFSiwidds-lcdekranisidegeriokuma
