@@ -29,7 +29,7 @@ Potansiyometre ile LED'in parlaklığını ayarlamak için aşağıdaki bağlant
 Bu bağlantılar, potansiyometre ile LED parlaklığını kontrol etmek için gerekli olan temel bağlantıları oluşturur.
 
 Daha fazla ayrıntı, bağlantılar ve örnek projeler için bu uygulamanın Tinkercad simülasyonuna buradan erişebilirsiniz.
-https://www.tinkercad.com/things/evpnb53GVU3-pwmpotansiyometreledyakma/editel?returnTo=%2Fdashboard%3Fcollection%3Ddesigns%26type%3Dcircuits
+https://www.tinkercad.com/things/evpnb53GVU3-pwmpotansiyometreledyakma
 
 ![TurningLEDOnWithPWMPotentiometer](https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/0cb30b98-4318-4c40-8b20-2a0ef9709d5e)
 
