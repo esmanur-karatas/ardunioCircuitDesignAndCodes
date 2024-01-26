@@ -97,8 +97,7 @@ delay(100);
 
 
 
-https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/7016b02d-865b-461e-aaa5-6315f3a91aed
-
+https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/975b1a5d-a6a9-4d2b-bbb1-c75597f93da4
 
 
 ## TINCERCAD
