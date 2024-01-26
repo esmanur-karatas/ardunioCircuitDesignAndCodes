@@ -26,7 +26,7 @@ LED'lerin sıralı olarak yanıp sönmesini sağlamak için aşağıdaki bağlan
 Bu bağlantılar, sıralı LED yakma uygulamasını oluşturmak için gerekli olan temel bağlantıları sağlar.
 
 Daha fazla ayrıntı, bağlantılar ve örnek projeler için bu uygulamanın Tinkercad simülasyonuna buradan erişebilirsiniz.
-https://www.tinkercad.com/things/gpNdvZiLDIF-karasimsek/editel?returnTo=%2Fdashboard%3Fcollection%3Ddesigns%26type%3Dcircuits
+https://www.tinkercad.com/things/gpNdvZiLDIF-karasimsek
 
 ![multipleLed(blackLightning)Design](https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/e3a6b274-568e-470c-b175-3e17895721ae)
 
