@@ -1,0 +1,4 @@
+﻿Ad,Miktar,Bileşen
+"U1",1," Sıcaklık Sensörü [TMP36]"
+"U4",1," Arduino Uno R3"
+"U3",1,"MCP23008-tabanlı, 32 LCD 16 x 2 (I2C)"
