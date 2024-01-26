@@ -30,7 +30,7 @@ Lambayı otomatik olarak kontrol etmek için aşağıdaki bağlantıları yapman
 Bu bağlantılar, LDR ile çevresel ışık seviyesini ölçmek ve LED'i otomatik olarak kontrol etmek için gerekli olan temel bağlantıları oluşturur.
 
 Daha fazla ayrıntı, bağlantılar ve örnek projeler için bu uygulamanın Tinkercad simülasyonuna buradan erişebilirsiniz. 
-https://www.tinkercad.com/things/7t67ajbLe9f-ldrotomatiklamba/editel?returnTo=%2Fdashboard%3Fcollection%3Ddesigns%26type%3Dcircuits
+https://www.tinkercad.com/things/7t67ajbLe9f-ldrotomatiklamba
 
 ![automaticLampMakingWithArduinoLDR](https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/48abb6f1-4513-44af-9ae1-76d4c1fed454)
 
