@@ -52,6 +52,7 @@ Bu projede, Arduino kullanarak MZ5 ısı sensöründen sıcaklık okuması yapı
 
 ## Arduino Kodu
 #include <LiquidCrystal.h>
+
 #include <Wire.h>
 
 int sensorPin=A0;
