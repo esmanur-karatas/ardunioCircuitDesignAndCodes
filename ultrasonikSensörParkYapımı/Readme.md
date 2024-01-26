@@ -27,6 +27,6 @@ Ultrasonik mesafe sensörünü ve buzzer'ı Arduino ile bağlamak için aşağı
 Bu bağlantılar, ultrasonik mesafe sensörünün mesafe ölçümü yapmasını ve buzzer'ın uyarı sesini çıkarmasını sağlar.
 
 Daha fazla ayrıntı, bağlantılar ve örnek projeler için bu uygulamanın Tinkercad simülasyonuna buradan erişebilirsiniz.
-https://www.tinkercad.com/things/k6LpfEIDIZ5-ultrasoniksensorpark/editel?returnTo=%2Fdashboard%3Ftype%3Dcircuits%26collection%3Dprojects%26id%3D8FuztexZDTB
+https://www.tinkercad.com/things/k6LpfEIDIZ5-ultrasoniksensorpark
 
 ![Shiny Bombul-Waasa](https://github.com/esmanur-karatas/ardunioCircuitDesignAndCodes/assets/83882274/4400a2b4-0ddc-4b17-82bd-1c64ed398ff8)
